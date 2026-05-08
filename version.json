@@ -1,7 +1,27 @@
-{
-	"en": "1.0",
-	"de": "1.0",
-	"pt-BR": "1.0",
-	"zn-Hans": "1.0",
-	"hu": "1.0",
-}
+[
+	{
+		"langCode": "en",
+		"version": "1.0",
+		"url": "https://raw.githubusercontent.com/.../en.json"
+	},
+	{
+		"langCode": "de",
+		"version": "1.0",
+		"url": "https://raw.githubusercontent.com/.../de.json"
+	},
+	{
+		"langCode": "pt-BR",
+		"version": "1.0",
+		"url": "https://raw.githubusercontent.com/.../pt-BR.json"
+	},
+	{
+		"langCode": "zh-Hans",
+		"version": "1.0",
+		"url": "https://raw.githubusercontent.com/.../zh-Hans.json"
+	},
+	{
+		"langCode": "hu",
+		"version": "1.0",
+		"url": "https://raw.githubusercontent.com/.../hu.json"
+	}
+]
