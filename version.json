@@ -2,21 +2,21 @@
 	{
 		"langCode": "en",
 		"version": "1.0",
-		"url": "https://raw.githubusercontent.com/translations/en.json"
+		"url": "https://raw.githubusercontent.com/flameflamm/mcs-localisation/main/translations/en.json"
 	},
 	{
 		"langCode": "de",
 		"version": "1.0",
-		"url": "https://raw.githubusercontent.com/translations/de.json"
+		"url": "https://raw.githubusercontent.com/flameflamm/mcs-localisation/main/translations/de.json"
 	},
 	{
 		"langCode": "pt-BR",
 		"version": "1.0",
-		"url": "https://raw.githubusercontent.com/translations/pt-BR.json"
+		"url": "https://raw.githubusercontent.com/flameflamm/mcs-localisation/main/translations/pt-BR.json"
 	},
 	{
 		"langCode": "hu",
 		"version": "1.0",
-		"url": "https://raw.githubusercontent.com/translations/hu.json"
+		"url": "https://raw.githubusercontent.com/flameflamm/mcs-localisation/main/translations/hu.json"
 	}
 ]
