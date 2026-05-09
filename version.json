@@ -2,26 +2,21 @@
 	{
 		"langCode": "en",
 		"version": "1.0",
-		"url": "https://raw.githubusercontent.com/.../en.json"
+		"url": "https://raw.githubusercontent.com/translations/en.json"
 	},
 	{
 		"langCode": "de",
 		"version": "1.0",
-		"url": "https://raw.githubusercontent.com/.../de.json"
+		"url": "https://raw.githubusercontent.com/translations/de.json"
 	},
 	{
 		"langCode": "pt-BR",
 		"version": "1.0",
-		"url": "https://raw.githubusercontent.com/.../pt-BR.json"
-	},
-	{
-		"langCode": "zh-Hans",
-		"version": "1.0",
-		"url": "https://raw.githubusercontent.com/.../zh-Hans.json"
+		"url": "https://raw.githubusercontent.com/translations/pt-BR.json"
 	},
 	{
 		"langCode": "hu",
 		"version": "1.0",
-		"url": "https://raw.githubusercontent.com/.../hu.json"
+		"url": "https://raw.githubusercontent.com/translations/hu.json"
 	}
 ]
